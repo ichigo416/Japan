@@ -4,9 +4,9 @@ import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
 import DestinationsPage from './pages/DestinationsPage';
 import ExperiencesPage from './pages/ExperiencesPage';
-import ItinerariesPage from './pages/ItinerariesPage';
-import TravelInfoPage from './pages/TravelInfoPage';
-import GalleryPage from './pages/GalleryPage';
+import ItinerariesPage from './pages/IternariesPage';
+import TravelInfoPage from './pages/TravelInfo';
+import GalleryPage from './pages/Gallery';
 
 function App() {
   return (
